@@ -1,0 +1,39 @@
+/* style.css */
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ff6600;
+}
+
+.pumpkin {
+    width: 200px;
+}
+
+.halloween-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.halloween-list-title {
+    font-size: 20px;
+    color: #ff6600;
+}
+
+.halloween-list-item {
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+    text-align: left;
+    padding-left: 10%;
+}
+
+.halloween-link {
+    color: #ff6600;
+    text-decoration: none;
+}
